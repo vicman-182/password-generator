@@ -1,3 +1,5 @@
+![Portada de proyecto](/password-generator/img/Passwor_Generator_github.png)
+
 # Generador de Contraseñas Aleatorias
 Este es un simple proyecto de Python que genera contraseñas aleatorias seguras utilizando caracteres alfanuméricos. Puedes especificar la longitud de la contraseña que deseas generar y el programa hará el resto.
 
