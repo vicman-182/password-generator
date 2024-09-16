@@ -43,3 +43,5 @@ Utilice un codigo simple con comentarios faciles de entender, para practicar lo 
 
 ## Licencia
 Este proyecto está licenciado bajo la MIT License.
+
+![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)
